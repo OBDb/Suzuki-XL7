@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Suzuki_XL7"
+
+generations:
+  - name: "Second Generation"
+    start_year: 2007
+    end_year: 2009
+    description: "A crossover built with GM on the Theta platform, with a 3.6 L V6."
+  - name: "XL7 (Ertiga-based)"
+    start_year: 2020
+    end_year: null
+    description: "A seven-seat crossover based on the second-generation Ertiga, with a 1.5 L K15B engine."
